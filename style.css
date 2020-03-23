@@ -1,12 +1,12 @@
 html,
 body {
-margin: 10;
+margin: 0;
 padding: 0;
 }
 
 body {
 width: 550px;
-height: 310px;
+height: 300px;
 font-size: 12px;
 font-family: “Tahoma”, “Arial”, sans-serif;
 }
